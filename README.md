@@ -1,4 +1,4 @@
-# Put Filter identifies yields of Put Options in Market to optimize (put) option tradeing
+# Put Filter identifies yields of Put Options in Market to optimize (put) option trading
 
 ### Put Filter is not a guarantee or recommendation for option sales or purchase
 ###   users consume data at their own risk; and should consult with advisor
